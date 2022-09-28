@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1653975935 source:d:\sondos matrial\third year_term2\graphics\codes\graph_project\main.cpp
+	<Windows.h>
+	<stdlib.h>
+	<stdio.h>
+	"math.h"
+	"Ids.h"
+	"Common.h"
+	"Line.h"
+	"Circle.h"
+	"Menu.h"
+	"Filling.h"
+	"File.h"
+	"Clipping.h"
+	"Curve.h"
+	"Ellipse.h"
+
+1653943559 d:\sondos matrial\third year_term2\graphics\codes\graph_project\ids.h
+
+1653914687 d:\sondos matrial\third year_term2\graphics\codes\graph_project\common.h
+
+1653887803 d:\sondos matrial\third year_term2\graphics\codes\graph_project\line.h
+
+1653713290 d:\sondos matrial\third year_term2\graphics\codes\graph_project\circle.h
+
+1653943570 d:\sondos matrial\third year_term2\graphics\codes\graph_project\menu.h
+
+1653936986 d:\sondos matrial\third year_term2\graphics\codes\graph_project\filling.h
+	<stdio.h>
+	<stack>
+	<list>
+	<math.h>
+	<limits.h>
+	"Curve.h"
+
+1653975988 d:\sondos matrial\third year_term2\graphics\codes\graph_project\curve.h
+
+1653887893 d:\sondos matrial\third year_term2\graphics\codes\graph_project\file.h
+
+1653924009 d:\sondos matrial\third year_term2\graphics\codes\graph_project\clipping.h
+	<Windows.h>
+	<vector>
+	<math.h>
+	<tchar.h>
+
+1653975939 d:\sondos matrial\third year_term2\graphics\codes\graph_project\ellipse.h
+
